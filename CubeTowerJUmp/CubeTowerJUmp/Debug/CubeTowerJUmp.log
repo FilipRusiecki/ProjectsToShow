@@ -1,0 +1,19 @@
+﻿  Game.cpp
+E:\portfolio new projects\CubeTowerJUmp\CubeTowerJUmp\Game.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class sf::Time __cdecl sf::seconds(float)" (__imp_?seconds@sf@@YA?AVTime@1@M@Z) referenced in function "public: void __thiscall Game::run(void)" (?run@Game@@QAEXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) bool __cdecl sf::operator>(class sf::Time,class sf::Time)" (__imp_??Osf@@YA_NVTime@0@0@Z) referenced in function "public: void __thiscall Game::run(void)" (?run@Game@@QAEXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class sf::Time & __cdecl sf::operator+=(class sf::Time &,class sf::Time)" (__imp_??Ysf@@YAAAVTime@0@AAV10@V10@@Z) referenced in function "public: void __thiscall Game::run(void)" (?run@Game@@QAEXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QAE@XZ) referenced in function "public: void __thiscall Game::run(void)" (?run@Game@@QAEXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Time __thiscall sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QAE?AVTime@2@XZ) referenced in function "public: void __thiscall Game::run(void)" (?run@Game@@QAEXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ) referenced in function "public: void __thiscall Game::run(void)" (?run@Game@@QAEXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ) referenced in function "public: void __thiscall Game::run(void)" (?run@Game@@QAEXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z) referenced in function "public: void __thiscall Game::run(void)" (?run@Game@@QAEXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Time const sf::Time::Zero" (__imp_?Zero@Time@sf@@2V12@B) referenced in function "public: void __thiscall Game::run(void)" (?run@Game@@QAEXXZ)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ) referenced in function "public: __thiscall Game::~Game(void)" (??1Game@@QAE@XZ)
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ) referenced in function _main
+C:\SFML\lib\sfml-graphics-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\SFML\lib\sfml-audio-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\SFML\lib\sfml-system-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\SFML\lib\sfml-window-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\SFML\lib\sfml-network-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+E:\portfolio new projects\CubeTowerJUmp\Debug\CubeTowerJUmp.exe : fatal error LNK1120: 11 unresolved externals

@@ -1,0 +1,20 @@
+﻿  Game.cpp
+E:\portfolio new projects\CubeTowerJUmp\CubeTowerJUmp\Game.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\portfolio new projects\CubeTowerJUmp\CubeTowerJUmp\Game.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\portfolio new projects\CubeTowerJUmp\CubeTowerJUmp\Game.cpp(141,44): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\portfolio new projects\CubeTowerJUmp\CubeTowerJUmp\Game.cpp(142,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\portfolio new projects\CubeTowerJUmp\CubeTowerJUmp\Game.cpp(154,45): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\portfolio new projects\CubeTowerJUmp\CubeTowerJUmp\Game.cpp(184,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CubeTowerJUmp.vcxproj -> E:\portfolio new projects\CubeTowerJUmp\x64\Debug\CubeTowerJUmp.exe
