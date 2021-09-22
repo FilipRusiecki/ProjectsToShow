@@ -1,0 +1,92 @@
+background:
+   file: background.jpg # Sample comment
+tank:
+   position: {x: 50, y: 800}
+   duration: 10000
+ai_tank:
+   position: {x: 400, y: 700}
+   duration: 10000
+  # max_projectiles: 10
+  # reload_time: 1000 
+obstacles: 
+   - type: wall
+     position: {x: 100, y: 660}
+     rotation: 0
+   - type: wall
+     position: {x: 134, y: 662}
+     rotation: 10
+   - type: wall
+     position: {x: 167, y: 670}
+     rotation: 20
+   - type: wall
+     position: {x: 198, y: 685}
+     rotation: 30
+   - type: wall
+     position: {x: 227, y: 704}
+     rotation: 40
+   - type: wall
+     position: {x: 251, y: 729}
+     rotation: 50
+   - type: wall
+     position: {x: 272, y: 757}
+     rotation: 60
+   - type: wall
+     position: {x: 1340, y: 240}
+     rotation: 0
+   - type: wall
+     position: {x: 1306, y: 238}
+     rotation: 10
+   - type: wall
+     position: {x: 1273, y: 230}
+     rotation: 20
+   - type: wall
+     position: {x: 1242, y: 215}
+     rotation: 30
+   - type: wall
+     position: {x: 1213, y: 196}
+     rotation: 40
+   - type: wall
+     position: {x: 1189, y: 171}
+     rotation: 50
+   - type: wall
+     position: {x: 1168, y: 143}
+     rotation: 60
+   - type: wall
+     position: {x: 400, y: 200}
+     rotation: 90
+   - type: wall
+     position: {x: 400, y: 233}
+     rotation: 90
+   - type: wall
+     position: {x: 400, y: 266}
+     rotation: 90
+   - type: wall
+     position: {x: 400, y: 299}
+     rotation: 90
+   - type: wall
+     position: {x: 400, y: 332}
+     rotation: 90
+   - type: wall
+     position: {x: 900, y: 632}
+     rotation: 0
+   - type: wall
+     position: {x: 933, y: 632}
+     rotation: 0
+   - type: wall
+     position: {x: 966, y: 632}
+     rotation: 0
+   - type: wall
+     position: {x: 999, y: 632}
+     rotation: 0
+   - type: wall
+     position: {x: 1032, y: 632}
+     rotation: 0
+   - type: wall
+     position: {x: 500, y: 532}
+     rotation: 0
+targets:
+   - position: {x: 500, y: 660}
+   - position: {x: 100, y: 200}
+   - position: {x: 1200, y: 100}
+
+   
