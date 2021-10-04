@@ -1,5 +1,5 @@
 # ProjectsToShow
-### Counter Strike Maps---(World Building Published on steam workshop)
+### Counter Strike Maps---(World building published on steam workshop)
 
 ### Cube Field---(Game made with cubes only)
 
