@@ -22,7 +22,10 @@
 ---(Simple Fuzzy Logic algorithm built in c++ and Sfml that shows off Fuzzy Logic)
 
 ### SimpleAIBehaviours
----(Program showing simple AI behaviours such as: Pursue, Flee, Seek, Kinematic Wander, Arrive Slow/Fast)
+---(Program showing simple AI behaviours such as: Pursue, Flee, Seek, Kinematic Wander, Arrive Slow/Fast all these behaviours contain a vision cone)
+
+![image](https://user-images.githubusercontent.com/57904846/215581453-a1553f9c-cc4c-40d1-bcff-b981bfd73b6c.png)
+
 
 ### Tank Game
 ---(Top down tank game using Yaml, sfml and c++)
