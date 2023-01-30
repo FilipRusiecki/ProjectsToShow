@@ -1,24 +1,43 @@
 # ProjectsToShow
-### Counter Strike Maps---(World building published on steam workshop)
+### Counter Strike Maps
+---(World building published on steam workshop)
 
-### Cube Field---(Game made with cubes only)
+### Cube Field
+---(Game made with cubes only)
 
-### Cube Tower Jump---(Endless Runner)
+### Cube Tower Jump
+---(Endless Runner)
 
-### DungeonRougeGame---(Unity built Using Design Patterns such as: Factory Pattern, Singelton)
+### DungeonRougeGame
+---(Unity built Using Design Patterns such as: Factory Pattern, Singelton)
+![image](https://user-images.githubusercontent.com/57904846/215579892-280bd429-cfa9-4c42-8a1d-c996b3c5c071.png)
+![image](https://user-images.githubusercontent.com/57904846/215579918-8273d29e-ef9e-4ea7-be8b-53a77fc25659.png)
 
-### FlowAlgorithmWithHeatMap---(Flow algorithm that has a heat map and a traversal path from point A to point B(2 green squares as seen on image below) that avoids obstacles)
+### FlowAlgorithmWithHeatMap
+---(Flow algorithm that has a heat map and a traversal path from point A to point B that avoids obstacles (2 green squares as seen on image below are point A and B))
 
-### FuzzyLogic---(Simple Fuzzy Logic algorithm built in c++ and Sfml that shows off Fuzzy Logic)
+![image](https://user-images.githubusercontent.com/57904846/215579948-f6e48a20-006e-4131-9358-bddf9f4f3f40.png)
 
-### SimpleAIBehaviours---(Program showing simple AI behaviours such as: Pursue, Flee, Seek, Kinematic Wander, Arrive Slow/Fast)
+### FuzzyLogic
+---(Simple Fuzzy Logic algorithm built in c++ and Sfml that shows off Fuzzy Logic)
 
-### Tank Game---(Top down tank game using Yaml, sfml and c++)
+### SimpleAIBehaviours
+---(Program showing simple AI behaviours such as: Pursue, Flee, Seek, Kinematic Wander, Arrive Slow/Fast)
 
-### UI-Web game---(Made with HTML,CSS and java script)
+### Tank Game
+---(Top down tank game using Yaml, sfml and c++)
 
-### UnityVRGame(StillInProgress)---(My Fourth year project,Unity VR game, currently has Object interaction, Day/Night cycle, Player being able to controll a plane, (In progress of adding Multiplayer))
+### UI-Web game
+---(Made with HTML,CSS and java script)
 
-### Unreal Game---(Not finished project 3D FPS)
+### UnityVRGame(StillInProgress)
+---(My Fourth year project,Unity VR game, currently has Object interaction, Day/Night cycle, Player being able to controll a plane, (In progress of adding Multiplayer))
 
-### Zombie Game---(Zombie game with infinate rounds and pathfinding)
+![image](https://user-images.githubusercontent.com/57904846/215580010-b2c5e9a1-62be-4a0c-98bf-6f37fa0edabc.png)
+![image](https://user-images.githubusercontent.com/57904846/215580040-00f51a69-7f6e-43be-94b7-234e5ddfbf6f.png)
+
+### Unreal Game
+---(Not finished project 3D FPS)
+
+### Zombie Game
+---(Zombie game with infinate rounds and pathfinding)
