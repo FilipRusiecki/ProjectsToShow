@@ -1,4 +1,4 @@
-Game is in progress
 
-Currently made own World,Walking and running of character,Jump mechanic, Camera Swap, Shoot in direction of mouse (needs to be changed) and 
+Currently made own World,Walking and running of character,Jump mechanic, Camera Swap, 
+Shoot in direction of mouse (needs to be changed) and 
 Animation state machine
