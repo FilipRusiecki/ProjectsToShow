@@ -9,7 +9,7 @@
 ---(Endless Runner)
 
 ### DungeonRougeGame
----(Unity built Using Design Patterns such as: Factory Pattern, Singelton)
+---(Unity built Using Design Patterns such as: Factory Pattern, Singelton, State Pattern)
 ![image](https://user-images.githubusercontent.com/57904846/215579892-280bd429-cfa9-4c42-8a1d-c996b3c5c071.png)
 ![image](https://user-images.githubusercontent.com/57904846/215579918-8273d29e-ef9e-4ea7-be8b-53a77fc25659.png)
 
