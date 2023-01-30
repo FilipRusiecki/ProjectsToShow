@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/57904846/215579918-8273d29e-ef9e-4ea7-be8b-53a77fc25659.png)
 
 ### FlowAlgorithmWithHeatMap
----(Flow algorithm that has a heat map and a traversal path from point A to point B(2 green squares as seen on image below) that avoids obstacles)
+---(Flow algorithm that has a heat map and a traversal path from point A to point B that avoids obstacles (2 green squares as seen on image below are point A and B))
 
 ![image](https://user-images.githubusercontent.com/57904846/215579948-f6e48a20-006e-4131-9358-bddf9f4f3f40.png)
 
