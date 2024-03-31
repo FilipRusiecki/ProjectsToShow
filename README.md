@@ -21,6 +21,11 @@
 ### FuzzyLogic
 ---(Simple Fuzzy Logic algorithm built in c++ and Sfml that shows off Fuzzy Logic)
 
+### GameJam 2024 Game, Theme "make me laugh, (Won Prize for the Funniest game)
+[Game Reporsitory](https://github.com/FilipRusiecki/GGJ-Team-Cermit)
+![image](https://github.com/FilipRusiecki/ProjectsToShow/blob/main/GameJam2024/kermit1.PNG?raw=true)
+![image](https://github.com/FilipRusiecki/ProjectsToShow/blob/main/GameJam2024/kermit3.PNG?raw=true)
+
 ### Minecraft Mod
 ---(Mod includes, 6 Dimensions, 38 New Weapons, 70 New Mobs, 22 Ores, tools and armor sets.)
 [Cursforge Mod Page](https://legacy.curseforge.com/minecraft/mc-mods/anywhereyougo)
