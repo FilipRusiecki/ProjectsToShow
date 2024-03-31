@@ -62,8 +62,14 @@
 
 ### UnityVRGame
 ---(My Fourth year project,Unity VR game, currently has Object interaction, Day/Night cycle, Player being able to controll a plane, Multiplayer VR 
+
 [Project Repo](https://github.com/FilipRusiecki/FinalYearProject)
 
+[Youtube video of my game](https://www.youtube.com/watch?v=jDkfWm-pjDg)
+
+![image](https://github.com/FilipRusiecki/ProjectsToShow/blob/main/UnityVRGame/pic%201.PNG?raw=true)
+![image](https://github.com/FilipRusiecki/ProjectsToShow/blob/main/UnityVRGame/pic2.PNG?raw=true)
+![image](https://github.com/FilipRusiecki/ProjectsToShow/blob/main/UnityVRGame/pic3.PNG?raw=true)
 ![image](https://user-images.githubusercontent.com/57904846/215580010-b2c5e9a1-62be-4a0c-98bf-6f37fa0edabc.png)
 ![image](https://user-images.githubusercontent.com/57904846/215580040-00f51a69-7f6e-43be-94b7-234e5ddfbf6f.png)
 
