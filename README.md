@@ -45,6 +45,7 @@
 ---(Mod includes, 6 Dimensions, 38 New Weapons, 70 New Mobs, 22 Ores, tools and armor sets.)
 
 [Cursforge Mod Page](https://legacy.curseforge.com/minecraft/mc-mods/anywhereyougo)
+
 [MCreator Mod Page](https://mcreator.net/modification/99286/anywhereyoogo)
 ![image](https://github.com/FilipRusiecki/ProjectsToShow/blob/main/Minecraft%20Mod/Dimensions/Dimension%201.png?raw=true)
 ![image](https://github.com/FilipRusiecki/ProjectsToShow/blob/main/Minecraft%20Mod/BossRooms/bossroom1.png?raw=true)
