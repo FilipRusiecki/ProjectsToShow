@@ -5,7 +5,7 @@
 [Frugo 16K downloads](https://steamcommunity.com/sharedfiles/filedetails/?id=3169731504)
 ![image](https://github.com/FilipRusiecki/ProjectsToShow/blob/main/Cs2Map_HideAndSeekFrugo%2016K%20Downloads/20240228010851_1.jpg?raw=true)
 
-[Zombie Hill 7K downloads](https://steamcommunity.com/sharedfiles/filedetails/?id=3171183590)
+[Zombie Hill 21K downloads](https://steamcommunity.com/sharedfiles/filedetails/?id=3171183590)
 ![image](https://github.com/FilipRusiecki/ProjectsToShow/blob/main/Cs2Map_ZombieHill%2021K%20Downloads/gif.gif?raw=true)
 
 [Christmas Map 11K downloads](https://steamcommunity.com/sharedfiles/filedetails/?id=2303607674)
